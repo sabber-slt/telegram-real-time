@@ -14,4 +14,4 @@ yarn
 
 ## API
 
-### u can get your telegram api key from here <https://my.telegram.org>
+### you can get your telegram api key from here <https://my.telegram.org>
